@@ -1,2 +1,2 @@
-# wicastr-html-example
-Example html application for WICASTR cloud
+# WICASTR HTML EXAMPLE
+This is a simple html page to serve as an example for Getting Started section of WICASTR application development documentation.
